@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(79, 60, 253);
+    text-align: center;
+}
+.main_div{
+    background-color: white;
+    padding-bottom: 60px;
+}
+.heading{
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+.footer{
+    position: fixed;
+    bottom: 20px;
+    line-height: 2;
+    color: springgreen;
+    text-align: center;
+    width: 100%;
+    text-shadow: 5px 5px 5px rgb(152, 226, 156);
+}
